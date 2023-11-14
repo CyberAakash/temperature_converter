@@ -2,6 +2,11 @@
 
 A simple temperature converter web application built with React and Tailwind CSS.
 
+## OASIS INFOBYTE Web Development and Designing Internship
+
+This project is part of the OASIS INFOBYTE web development and designing internship.
+Task 3 of Level 1 in the internship program.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
