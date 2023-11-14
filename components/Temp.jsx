@@ -32,7 +32,7 @@ const Temp = () => {
   };
 
   return (
-    <div className="container mx-0 lg:mx-60 p-10 md:p-20 border shadow-lg bg-transparent backdrop-blur-sm">
+    <div className="container mx-0 lg:w-[60%] p-10 md:p-20 border shadow-lg bg-transparent backdrop-blur-sm">
       <h2 className="text-2xl font-bold mb-4 text-center text-white">
         Temperature Converter
       </h2>
